@@ -4,7 +4,7 @@ public class E01 {
 
 
 
-        System.out.println("burasi main ");
+        System.out.println("burasi dene1 ");
     }
 
 }
