@@ -7,4 +7,9 @@ public class A04 {
         porjeye oaste yapip calistirir
         ----devami var EKSIK BU DOSYA
      */
+
+
+    String str="deneme git oyreniyik";
+    String str1="deneme git oyreniyik";
+    String str2="deneme git oyreniyik";
 }
