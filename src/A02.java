@@ -4,7 +4,6 @@ public class A02 {
         System.out.println("A02 class i");
         System.out.println("A02 class i");
         System.out.println("A02 class i");
-
         String str="deneme git oyreniyik";
     }
 }
